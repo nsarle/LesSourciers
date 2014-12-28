@@ -9,6 +9,9 @@
     </button>
            <!--  <li><a href="http://www.lessourciers.com" class="navbar-brand tamtex20">Les Sourciers</a></li> -->
     </div>
+	
+	<?php $currentPage = $_SERVER['REQUEST_URI']; ?>
+	
     <div class="collapse navbar-collapse navbar-ex1-collapse">
         <ul class="nav navbar-nav">
             <li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown">Les Sourciers<b class="caret"></b></a>
@@ -19,8 +22,8 @@
                     <li><a href="Partenaires.html">Partenaires</a></li>
                 </ul>
                 </li>
-            <li><a href="Nos_Produits.html">Nos Produits</a></li>
-            <li><a href="APropos.php">A Propos de Notre Ferme</a></li>
+            <li <?php if (strstr($currentPage, 'Nos_Produits')) { echo 'class="active"'; } ?>><a href="Nos_Produits.html">Nos Produits</a></li>
+            <li <?php if (strstr($currentPage, 'APropos')) { echo 'class="active"'; } ?>><a href="APropos.php">A Propos de Notre Ferme</a></li>
             <li><a href="Contacter.php">Nous contacter</a></li>
          </ul>
         <ul class="nav navbar-nav navbar-right">
