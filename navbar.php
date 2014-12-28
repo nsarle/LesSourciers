@@ -19,7 +19,7 @@
                     <li><a href="Lessourciers.html">Qui sommes-nous?</a></li>
                     <li><a href="Videoblog.html">Video Blog</a></li>
                     <li><a href="Press.html">Press</a></li>
-                    <li><a href="Partenaires.html">Partenaires</a></li>
+                    <li><a href="Partenaires.php">Partenaires</a></li>
                 </ul>
                 </li>
             <li <?php if (strstr($currentPage, 'Nos_Produits')) { echo 'class="active"'; } ?>><a href="Nos_Produits.html">Nos Produits</a></li>
