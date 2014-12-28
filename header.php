@@ -41,6 +41,7 @@
                             <a href="https://www.facebook.com/pages/Project-Hydroponics/203982603095898" class="logofb" target="_blank"><img alt="" src="https://lh6.googleusercontent.com/-CYt37hfDnQ8/T3nNydojf_I/AAAAAAAAAr0/P5OtlZxV4rk/s32/facebook32.png" width=32 height=32></a>
                             <a href="https://plus.google.com/114160380244004484415?prsrc=3" class="logog" rel="publisher" target="_blank"><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" width=32 height=32/></a>
                             <a href="https://www.youtube.com/channel/UCNRcppsj-SM4FrdCgPsyrDA" class="logoy" rel="publisher" target="_blank"><img src="img/yt.png" alt="" width=32 height=32/></a>
+                            <a href="http://instagram.com/lessourciers/" class="logoi" rel="publisher" target="_blank"><img src="img/ins.png" alt="" width=32 height=32/></a>
                             </div>
                     </div>
                 </div>

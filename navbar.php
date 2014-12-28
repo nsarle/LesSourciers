@@ -16,18 +16,18 @@
         <ul class="nav navbar-nav">
             <li class="dropdown"><a href="" class="dropdown-toggle" data-toggle="dropdown">Les Sourciers<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                    <li><a href="Lessourciers.html">Qui sommes-nous?</a></li>
-                    <li><a href="Videoblog.html">Video Blog</a></li>
-                    <li><a href="Press.html">Press</a></li>
-                    <li><a href="Partenaires.php">Partenaires</a></li>
+                    <li <?php if (strstr($currentPage, 'Lessourciers')) { echo 'class="active"'; } ?>><a href="Lessourciers.php">Qui sommes-nous?</a></li>
+                    <li <?php if (strstr($currentPage, 'Videoblog')) { echo 'class="active"'; } ?>><a href="Videoblog.php">Video Blog</a></li>
+                    <li <?php if (strstr($currentPage, 'Press')) { echo 'class="active"'; } ?>><a href="Press.php">Press</a></li>
+                    <li <?php if (strstr($currentPage, 'Partenaires')) { echo 'class="active"'; } ?>><a href="Partenaires.php">Partenaires</a></li>
                 </ul>
                 </li>
-            <li <?php if (strstr($currentPage, 'Nos_Produits')) { echo 'class="active"'; } ?>><a href="Nos_Produits.html">Nos Produits</a></li>
+            <li <?php if (strstr($currentPage, 'Nos_Produits')) { echo 'class="active"'; } ?>><a href="Nos_Produits.php">Nos Produits</a></li>
             <li <?php if (strstr($currentPage, 'APropos')) { echo 'class="active"'; } ?>><a href="APropos.php">A Propos de Notre Ferme</a></li>
-            <li><a href="Contacter.php">Nous contacter</a></li>
+            <li <?php if (strstr($currentPage, 'Contacter')) { echo 'class="active"'; } ?>><a href="Contacter.php">Nous contacter</a></li>
          </ul>
         <ul class="nav navbar-nav navbar-right">
-        <li><a href="Cours.html">Cours d'Hydroponie</a></li>
+        <li <?php if (strstr($currentPage, 'Cours')) { echo 'class="active"'; } ?>><a href="Cours.php">Cours d'Hydroponie</a></li>
           </ul>   
     </div>
     </nav><br>
