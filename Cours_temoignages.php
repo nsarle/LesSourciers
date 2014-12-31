@@ -7,7 +7,7 @@
                 <div class="row col-xs-12 col-sm-6 col-md-8 col-lg-12">
                     <h1 class="tamtex20">Les Sourciers, première Ferme Hydroponique en France en collaboration avec General Hydroponics Europe.</h1><br>
                     <ul class="nav nav-tabs">
-                      <li role="presentation" class="tamtex20"><a href="Cours.php">Presentation</a></li>
+                      <li role="presentation" class="tamtex20"><a href="Cours.php">Présentation</a></li>
                       <li role="presentation" class="tamtex20"><a href="Cours_inscription.php">Inscription</a></li>
                       <li role="presentation" class="active tamtex20"><a href="Cours_temoignages.php">Témoignages</a></li>
                     </ul>

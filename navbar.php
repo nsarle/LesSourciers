@@ -18,7 +18,7 @@
                 <ul class="dropdown-menu">
                     <li <?php if (strstr($currentPage, 'Lessourciers')) { echo 'class="active"'; } ?>><a href="Lessourciers.php">Qui sommes-nous?</a></li>
                     <li <?php if (strstr($currentPage, 'Videoblog')) { echo 'class="active"'; } ?>><a href="Videoblog.php">Video Blog</a></li>
-                    <li <?php if (strstr($currentPage, 'Press')) { echo 'class="active"'; } ?>><a href="Press.php">Press</a></li>
+                    <li <?php if (strstr($currentPage, 'Presse')) { echo 'class="active"'; } ?>><a href="Presse.php">Presse</a></li>
                     <li <?php if (strstr($currentPage, 'Partenaires')) { echo 'class="active"'; } ?>><a href="Partenaires.php">Partenaires</a></li>
                 </ul>
                 </li>
