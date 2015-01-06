@@ -1,7 +1,5 @@
 <?php include('header.php') ?>
 <?php include('navbar.php') ?>
-
-<?php if(isset($message) && $message != "") { echo $message; } ?><br>  
        
        <!--tabs--> 
      <section class="texto2">

@@ -79,7 +79,7 @@
 <p>Si vous êtes intéressés, vous pouvez vous pré-inscrire gratuitement et sans engagement afin de recevoir le tarif et le descriptif de cours,  et ainsi réserver votre place dans les prochaines sessions. </p><br>
 
 
-<form class="form-inline" role="form" action="./Cours.php" method="post">
+<form class="form-inline" role="form" action="./Cours_inscription.php" method="post">
   <div>
     <div class="form-group">
         <label class="sr-only" for="nom">Nom</label>

@@ -4,7 +4,7 @@
         <!--Productos y descripciones--> 
         <div class="container texto2">
         <h1 class="tamtex30" align="center">Nos Produits:</h1><br>
-        <p class="tamtex20" allign="center">Nos produits peuvent évoluer en fonction des saisons et des arrivages de nouvelles graines n´hesitez pas à <a href="Contacter.php">nous contacter</a> pour en connaitre la disponibilité avant de passer commande.</p>
+        <p class="tamtex20" align="center">Nos produits peuvent évoluer en fonction des saisons et des arrivages de nouvelles graines n´hesitez pas à <a href="Contacter.php">nous contacter</a> pour en connaitre la disponibilité avant de passer commande.</p>
         </div><br><br>
         <div class="container texto2">
 
@@ -298,6 +298,7 @@
                 </div>
             </section><br>
 
+</div>
 <!--
             <section>
                 <div class="row">
