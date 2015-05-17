@@ -20,15 +20,16 @@
                 <div class="row col-xs-12 col-sm-6 col-md-8 col-lg-12">
                     <p align="justify">
 
-<br><p class="redtext"><i>Cours d’Hydroponie - Session 2014 complète</i></p><br>
+<!--<br><p class="redtext"><i>Cours d’Hydroponie - Session 2015 complète</i></p><br>-->
 
 <p>Dates disponibles pour la session Printemps 2015 : <br>
-11-12 Avril <br>
-25-26 Avril <br>
-9-10 Mai <br>
-23-24 Mai <br>
 6-7 Juin <br>
-20-21 Juin</p><br>
+<s>20-21 Juin</s> (complet)<br><br>
+
+Dates disponibles pour la session Automne 2015 : <br>
+19 – 20 Septembre <br>
+10-11 Octobre <br>
+24-25 Octobre <br>
 
 <p>Nos cours sont orientés à des particuliers souhaitant installer et savoir gérer chez eux des systèmes hydroponiques, et à des professionnels souhaitant s’installer en hydroponie. Il vous apporte les connaissances approfondies sur le fonctionnement des plantes et la gestion d’une culture en Hydroponie de A à Z. Pour consolider la partie théorique, nous avons ajouté un cours pratique dans notre serre hydroponique afin de vous familiariser avec les plantes, les outils, et les systèmes.</p><br>
 

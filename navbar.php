@@ -24,6 +24,7 @@
                 </li>
             <li <?php if (strstr($currentPage, 'Nos_Produits')) { echo 'class="active"'; } ?>><a href="Nos_Produits.php">Nos Produits</a></li>
             <li <?php if (strstr($currentPage, 'APropos')) { echo 'class="active"'; } ?>><a href="APropos.php">A Propos de Notre Ferme</a></li>
+            <li <?php if (strstr($currentPage, 'Visites')) { echo 'class="active"'; } ?>><a href="Visites.php">Visites</a></li>
             <li <?php if (strstr($currentPage, 'Contacter')) { echo 'class="active"'; } ?>><a href="Contacter.php">Nous contacter</a></li>
          </ul>
         <ul class="nav navbar-nav navbar-right">

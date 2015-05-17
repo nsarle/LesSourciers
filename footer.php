@@ -6,7 +6,7 @@
                          <h5>Les Sourciers</h5>
                          <h5>Potager Aquatique</h5>
                          <h5>Lieu dit la Berdale</h5>
-                         <h5>32330 Lagraulet-du-Gers - France</h5>
+                         <h5>32330 Lagraulet-du-Gers - France - 07.87.11.61.65</h5>
                         </div>
                         <br>
                 </div>

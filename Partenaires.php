@@ -34,24 +34,44 @@ Auch <br><br>
 « Cuisine dans l'air du temps qui fait la part belle au terroir. »<br>
 Lectoure <br><br>
 
-> Restaurant La Table des Cordeliers <br>
-<a href="http://www.latabledescordeliers.com" target="_blank">www.latabledescordeliers.com</a> <br>
-« Dans cet ancien couvent, la cuisine se fonde sur le produit pour des mariages inventifs, osant l'alliance entre le sucré et le salé » <br>
-Condom <br><br>
+> Restaurant Auberge Le Prieuré <br>
+<a href="http://www.aubergeduprieuredemoirax.fr/" target="_blank">http://www.aubergeduprieuredemoirax.fr/</a> <br>
+Moirax <br><br>
 
 > Restaurant Hotel de Bastard <br>
 <a href="http://www.hotel-de-bastard.com/" target="_blank">http://www.hotel-de-bastard.com/</a> <br>
 Lectoure <br><br>
 
-> Restaurant Auberge Le Prieuré <br>
-<a href="http://www.aubergeduprieuredemoirax.fr/" target="_blank">http://www.aubergeduprieuredemoirax.fr/</a> <br>
-Moirax <br><br>
+> Restaurant Auberge La Baquère <br>
+<a href="http://www.aubergelabaquere.com/" target="_blank">http://www.aubergelabaquere.com/</a> <br>
+"Vous propose une cuisine élégante aux accents du terroir." <br>
+Preneron <br><br>
 
-> Restaurant La Cheminée <br>
-Nérac <br><br>
+> Restaurant la Table d'Oste <br>
+<a href="www.latabledoste.com" target="_blank">www.latabledoste.com</a> <br>
+"Recettes du terroir gascon, authentique." <br>
+Auch <br><br>
+
+> Restaurant le Solenca <br>
+<a href="http://www.solenca.com/" target="_blank">http://www.solenca.com/</a> <br>
+"Vous invite à la dégustation d'une fine cuisine de terroir" <br>
+Nogaro <br><br>
+
+> Restaurant le Relais du Bastidou <br>
+<a href="http://www.le-relais-du-bastidou.com/" target="_blank">http://www.le-relais-du-bastidou.com/</a> <br>
+"Le restaurant le Relais du Bastidou, vous récite tout le répertoire gascon : foies gras de canard, confits, magrets et autres croustades."<br>
+Beaumarches <br><br>
+
+> Restaurant La Table des Cordeliers <br>
+<a href="http://www.latabledescordeliers.com" target="_blank">www.latabledescordeliers.com</a> <br>
+« Dans cet ancien couvent, la cuisine se fonde sur le produit pour des mariages inventifs, osant l'alliance entre le sucré et le salé » <br>
+Condom <br><br>
 
 > Crêperie St Pierre <br>
 Condom <br><br>
+
+> Restaurant La Cheminée <br>
+Nérac <br><br>
 
 > Restaurant Carpe Diem <br>
 Pessan <br><br></p>
@@ -69,7 +89,10 @@ Terraube <br><br>
 >    Recommandé par le Petit Futé<br><br>
 
 <div id="fileContent"><a href="http://www.petitfute.com" title="Petit Futé"><img src="http://www.petitfute.com/img/widget/logo.jpg" width="100" border="0" alt="Petit Futé" /></a></div>
-<script language="javascript" type="text/javascript" src="http://pro.petitfute.com/compte/widget/petitfute/70053/"></script>
+<script language="javascript" type="text/javascript" src="http://pro.petitfute.com/compte/widget/petitfute/70053/"></script><br>
+
+>    Les Sourciers: Producteurs du Label les Tables du Gers <br>
+<a href="http://www.restaurant.tourisme-gers.com/"><img src="img/tablesdugers.jpg" class="img-rounded img-responsive"></a><br>
 
 </p>
                 </div>          

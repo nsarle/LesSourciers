@@ -12,6 +12,8 @@
     <a href="http://fr.eurohydro.com/" target="_blank">GHE</a>.</p>
 </p><br>
             <a href=""><img src="img/marionnico.jpg" class="img-rounded img-responsive"></a><br>
+        </div>
+        </div>
         </section><br>
 
 <?php include('footer.php') ?>

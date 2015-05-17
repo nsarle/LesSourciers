@@ -28,10 +28,12 @@
             <div class="row col-xs-12 col-sm-6 col-md-8 col-lg-12">
                 <p align="justify">
                     <?php if(isset($message) && $message != "") { echo $message; } ?><br>
-                    <p>Pour commander <a href="Nos_Produits.php">nos produits</a></p>
-                    <p>Pour venir visiter notre serre</p>
-                    <p>Pour toute autre question ou commentaire</p><br>
-                    <p>N’hésitez pas à nous écrire:</p><br>
+                    <p>Pour commander <a href="Nos_Produits.php">nos produits</a>, 
+                    pour venir visiter notre serre, pour toute autre question ou commentaire </p>
+                    <p>N’hésitez pas à nous appeler <b>(07.87.11.61.65)</b></p>
+                    <p>À nous écrire directement <b>marion@lessourciers.com</b></p>
+                    <p>Ou en remplissant les champs ci-dessous:</p>
+
                  </p>
                     <form class="form-inline" role="form" action="./Contacter.php" method="post">
                         <div>

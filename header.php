@@ -2,14 +2,14 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="fr"><!--<![endif]-->
     <head>
         <meta name="author" content="Les Sourciers">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Découvrez Les Sourciers, serre hydroponique expérimentale et écologique. Venez déguster nos produits frais dans le Gers lors d’une visite éducative autour de l’hydroponie.</title>
+        <title>Les Sourciers, serre hydroponique expérimentale et écologique dans le Gers. Venez déguster nos produits frais lors d’une visite éducative autour de l’hydroponie.</title>
         <meta name="keywords" content="les Sourciers, hydroponie, potager aquatique, sourcier, hydroponique, cour d'hydroponie">
-        <meta name="description" content="Découvrez Les Sourciers, serre hydroponique expérimentale et écologique. Venez déguster nos produits frais dans le Gers lors d’une visite éducative autour de l’hydroponie.">
+        <meta name="description" content="Découvrez Les Sourciers. Venez déguster nos produits frais dans le Gers lors d’une visite éducative autour de l’hydroponie.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/main.css">

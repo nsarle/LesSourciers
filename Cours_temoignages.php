@@ -69,7 +69,35 @@ plantas a pesar de que aparentemente las variables estaban bien... Nico y Marion
 pudieron dar respuestas concretas a mis consultas en unos días hermosos en su invernadero.
 De vuelta en mi país y con muchas cosas resueltas retomé los cultivos en mi sistema y me 
 continuaron ayudando a distancia. <br>
-Muchas gracias chicos ! </i><br>
+Muchas gracias chicos ! </i><br><br>
+
+<b> Thomas Panzolato </b>(France)  <br>
+
+  <i>  Cours très intéressant : le fait d’alterner la théorie et la pratique est une bonne chose. 
+J’ai pu parfaire mes maigres connaissances et cela me donne réellement envie de lancer notre entreprise, 
+et confirme l’intérêt de ce mode de culture.  J’aurai avoir encore plus de détails sur la vie de l’entreprise, 
+son rythme et ses chiffres mais ces questions ont quand même été abordées au fil des discutions. <br>
+Merci pour votre bonne humeur à tous les deux! </i><br><br>
+
+
+<b> Lucille Bonnet </b>(France) <br>
+
+<i>
+Très bonne impression générale. Formateurs ouverts, très à l’écoute. 
+La sensation que rien ne nous est caché est très agréable (sur les points autant positifs que négatifs du métier).
+Donne plein de courage pour nos projets !!
+</i><br><br>
+ 
+<b>Rami Garaali </b>(Tunisie) <br>
+
+<i>Le cours d’hydroponie m’a beaucoup plu et le coté pratique m’a vraiment permis de me projeter dans mon projet futur. 
+Par ailleurs les séances de cours ont permis de répondre à différentes questions que j’avais. </i><br><br>
+
+<b>Sami Omrani </b>(Tunisie) <br>
+<i>
+Merci pour cette formation qui nous a permis de nous rendre compte d’une manière 
+pratique que cela correspondait vraiment a ce que l’on voulait faire après 
+avoir passé presque un an à uniquement voir de la théorie. </i><br><br>
 
 </p><br>
                 </div>          
