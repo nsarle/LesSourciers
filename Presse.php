@@ -46,6 +46,17 @@
 <a href="http://www.lhotellerie-restauration.fr/journal/restauration/2015-04/Les-Rencontres-de-l-Excellence-GaultMillau-et-Elle-Vire-Professionnel.htm" target="_blank">http://www.lhotellerie-restauration.fr/journal/restauration/2015-04/Les-Rencontres-de-l-Excellence-GaultMillau-et-Elle-Vire-Professionnel.htm
 </a><br><br>
 
+                    > Reportage France 3 - Avril 2015<br>
+Article: <a href="http://france3-regions.francetvinfo.fr/midi-pyrenees/2015/04/25/gers-l-hydroponie-ou-la-culture-sans-terre-712069.html" 
+target="_blank">http://france3-regions.francetvinfo.fr/midi-pyrenees/2015/04/25/gers-l-hydroponie-ou-la-culture-sans-terre-712069.html</a> <br>
+Vidéo: <a href="https://www.youtube.com/watch?v=17sdrjILqF8" 
+target="_blank">https://www.youtube.com/watch?v=17sdrjILqF8
+</a><br><br>
+
+ > Reportage M6 pour le JT du 12/45 - Mai 2015<br>
+<a href="https://www.youtube.com/watch?v=WL9GbmDNPoo" target="_blank">https://www.youtube.com/watch?v=WL9GbmDNPoo
+</a><br><br>
+
                         </p><br><br>
                         </div>
                     </div>    

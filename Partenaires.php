@@ -21,12 +21,12 @@ Plus d’information sur : <a href="http://fr.eurohydro.com/" target="_blank">ht
 
 <p>> Restaurant Le Bartok <br>
 <a href="http://www.le-bartok.com" target="_blank">www.le-bartok.com</a> <br>
-"La gourmandise au service des papilles" <br>
+« La gourmandise au service des papilles. » <br>
 Auch <br><br>
 
 > Restaurant Hôtel de France <br>
 <a href="http://www.hoteldefrance-auch.com/restaurant.aspx" target="_blank">www.hoteldefrance-auch.com</a><br>
-« La cuisine, l’élégance du Terroir »<br>
+« La cuisine, l’élégance du Terroir. »<br>
 Auch <br><br>
 
 > Restaurant Auberge des Bouviers <br>
@@ -35,7 +35,8 @@ Auch <br><br>
 Lectoure <br><br>
 
 > Restaurant Auberge Le Prieuré <br>
-<a href="http://www.aubergeduprieuredemoirax.fr/" target="_blank">http://www.aubergeduprieuredemoirax.fr/</a> <br>
+<a href="http://aubergeleprieure.fr/" target="_blank">http://www.aubergeduprieuredemoirax.fr/</a> <br>
+« L’auberge du Prieuré est un lieu simple, de vie, de partage avec une cuisine sensible et tranchante. »<br>
 Moirax <br><br>
 
 > Restaurant Hotel de Bastard <br>
@@ -44,22 +45,22 @@ Lectoure <br><br>
 
 > Restaurant Auberge La Baquère <br>
 <a href="http://www.aubergelabaquere.com/" target="_blank">http://www.aubergelabaquere.com/</a> <br>
-"Vous propose une cuisine élégante aux accents du terroir." <br>
+« Vous propose une cuisine élégante aux accents du terroir. » <br>
 Preneron <br><br>
 
 > Restaurant la Table d'Oste <br>
 <a href="www.latabledoste.com" target="_blank">www.latabledoste.com</a> <br>
-"Recettes du terroir gascon, authentique." <br>
+« Recettes du terroir gascon, authentique. » <br>
 Auch <br><br>
 
 > Restaurant le Solenca <br>
 <a href="http://www.solenca.com/" target="_blank">http://www.solenca.com/</a> <br>
-"Vous invite à la dégustation d'une fine cuisine de terroir" <br>
+« Vous invite à la dégustation d'une fine cuisine de terroir » <br>
 Nogaro <br><br>
 
 > Restaurant le Relais du Bastidou <br>
 <a href="http://www.le-relais-du-bastidou.com/" target="_blank">http://www.le-relais-du-bastidou.com/</a> <br>
-"Le restaurant le Relais du Bastidou, vous récite tout le répertoire gascon : foies gras de canard, confits, magrets et autres croustades."<br>
+« Le restaurant le Relais du Bastidou, vous récite tout le répertoire gascon : foies gras de canard, confits, magrets et autres croustades. »<br>
 Beaumarches <br><br>
 
 > Restaurant La Table des Cordeliers <br>
