@@ -6,6 +6,7 @@
             <div class="container">
                 <div class="row col-xs-12 col-sm-6 col-md-8 col-lg-8">
                     <p align="justify">
+                        <p class="tamtex20"><b>Visiter Notre Serre:</b></p><br>
                         <h1 class="tamtex20">Les Sourciers ouvrent les portes de leur serre, certains samedi après midi durant 
 
 l’été pour des visites guidés gratuite de leur potager aquatique.</h1><br>
@@ -31,10 +32,11 @@ Nous avons un parking mais la voie d’accès étant arborée, les grands véhic
 N’hésitez pas à nous contacter pour plus d’information. <br>
 À bientôt, <br><br>
 
-Marion & Nicolas</p> <br>
+<!--Marion & Nicolas</p> <br>
 
-            <a href=""><img src="img/marionnico.jpg" class="img-rounded img-responsive"></a><br>
+           <a href=""><img src="img/marionnico.jpg" class="img-rounded img-responsive"></a><br>-->
         </div>
         </div>
         </section><br>
+        
 <?php include('footer.php') ?>      
