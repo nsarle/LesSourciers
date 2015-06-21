@@ -1,9 +1,10 @@
-<?php include('header.php') ?>
-<?php include('navbar.php') ?>
-<!--Carrousel-->   
+<?php include('header-en.php') ?>
+<?php include('navbar-en.php') ?>
+<!--Carrousel--> 
+
 <div class="container">
-     <a href="index.php" ><b><u>Français</u>&nbsp</b></a>
-    <a href="LesSourciers-hydroponics-microfarming-greenhouse.php"><b><u>Anglais</u></b></a><br><br>
+    <a href="index.php" ><b><u>French</u>&nbsp</b></a>
+    <a href="LesSourciers-hydroponics-microfarming-greenhouse.php"><b><u>English</u> </b></a><br><br>
     <section id="myslide" class="carousel slide">
         <ol class="carousel-indicators">
             <li data-target="#myslide" data-slide-to="0" class="active"></li>
@@ -39,5 +40,4 @@
     </section><br><br>
 </div>
 
-
-<?php include('footer.php')?>
+<?php include('footer-en.php') ?>

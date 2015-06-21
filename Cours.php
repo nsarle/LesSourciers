@@ -22,10 +22,6 @@
 
 <!--<br><p class="redtext"><i>Cours d’Hydroponie - Session 2015 complète</i></p><br>-->
 
-<p>Dates disponibles pour la session Printemps 2015 : <br>
-6 - 7 Juin <br>
-<s>20 - 21 Juin</s> (complet)<br><br>
-
 Dates disponibles pour la session Automne 2015 : <br>
 19 – 20 Septembre <br>
 10 - 11 Octobre <br>

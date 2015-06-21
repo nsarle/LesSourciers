@@ -1,19 +1,19 @@
-<?php include('header.php') ?>
-<?php include('navbar.php') ?>
+<?php include('header-en.php') ?>
+<?php include('navbar-en.php') ?>
 
        <!--tabs--> 
-     <section class="texto2">
+         <section class="texto2">
             <div class="container">
                 <div class="row col-xs-12 col-sm-6 col-md-8 col-lg-12">
-                    <h1 class="tamtex20">Les Sourciers, première Ferme Hydroponique en France en collaboration avec General Hydroponics Europe.</h1><br>
+                    <h1 class="tamtex20">Les Sourciers, the first hydroponic farm in France, in collaboration with General Hydroponics Europe.</h1><br>
                     <ul class="nav nav-tabs">
-                      <li role="presentation" class="tamtex20"><a href="Cours.php">Présentation</a></li>
-                      <li role="presentation" class="tamtex20"><a href="Cours_inscription.php">Inscription</a></li>
-                      <li role="presentation" class="active tamtex20"><a href="Cours_temoignages.php">Témoignages</a></li>
+                      <li role="presentation" class="tamtex20"><a href="Courses-hydroponic-aquaponic-school-farming-france.php">Présentation</a></li>
+                      <li role="presentation" class="tamtex20"><a href="Courses-registration-hydroponic-aquaponic-france.php">Registration</a></li>
+                      <li role="presentation" class="active tamtex20"><a href="Courses-testimonies-hydroponic-student.php">Testimonies</a></li>
                     </ul>
                 </div>
             </div>
-        </section>  <br>
+        </section> <br>
 
         <section class="texto2">
             <div class="container">
@@ -129,4 +129,4 @@ C’était sympa, un peu court mais hélas toutes les bonnes choses ont une fin.
             </div>
         </section>
 
-<?php include('footer.php') ?>
+<?php include('footer-en.php') ?>

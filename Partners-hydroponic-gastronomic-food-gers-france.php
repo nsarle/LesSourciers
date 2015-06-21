@@ -1,5 +1,5 @@
-<?php include('header.php') ?>
-<?php include('navbar.php') ?>
+<?php include('header-en.php') ?>
+<?php include('navbar-en.php') ?>
 
  <!--Partenaires--> 
  <section class="texto2">
@@ -8,17 +8,15 @@
                     <p align="justify">
 
 <p>
-<h1 class="tamtex20">Nos Partenaires</h1><br>
+<h1 class="tamtex20">Our Partners</h1><br>
 
-<b>GHE</b> : General Hydroponics Europe est le premier créateur mondial dans le domaine de l’hydroponique. Basés à Fleurance
- dans le Gers ils conçoivent, produisent et assemblent les systèmes et les sels minéraux que nous utilisons dans notre serre. <br>
-
-Ce sont aussi eux qui ont inventé et breveté la Bioponie, ou hydroponie "biologique" avec leur engrais BioSevia. <br><br>
-
-Plus d’information sur : <a href="http://fr.eurohydro.com/" target="_blank">http://fr.eurohydro.com/</a>
+<b>GHE</b> : is the world's leading creator in the field of hydroponics. Based in Fleurance in the Gers department of south-west France, 
+they design, produce and assemble the systems and mineral salts we use in our greenhouse. <br> They were also responsible 
+for inventing and patenting Bioponics, or "organic" hydroponics, with their BioSevia fertilizer. <br><br>   
+For further information, visit: <a href="http://www.eurohydro.com/" target="_blank">http://www.eurohydro.com/</a>
 </p><br>
 
-<p class="tamtex20">Ils nous font confiance : </p><br>
+<p class="tamtex20">Our Customers : </p><br>
 
 <p>> Restaurant Le Bartok <br>
 <a href="http://www.le-bartok.com" target="_blank">www.le-bartok.com</a> <br>
@@ -118,4 +116,4 @@ Terraube <br><br>
             </div>
         </section><br>
 
-<?php include('footer.php') ?>
+<?php include('footer-en.php') ?>

@@ -19,8 +19,8 @@
         }
     }
 ?>
-<?php include('header.php') ?>
-<?php include('navbar.php') ?>
+<?php include('header-en.php') ?>
+<?php include('navbar-en.php') ?>
 
     <!--Formulario de contacto--> 
     <section class="texto2">
@@ -28,31 +28,33 @@
             <div class="row col-xs-12 col-sm-6 col-md-8 col-lg-12">
                 <p align="justify">
                     <?php if(isset($message) && $message != "") { echo $message; } ?><br>
-                    <p>Pour commander <a href="Nos_Produits.php">nos produits</a>, 
-                    pour venir visiter notre serre, pour toute autre question ou commentaire </p>
-                    <p>N’hésitez pas à nous appeler <b>(07.87.11.61.65)</b></p>
-                    <p>À nous écrire directement <b>marion@lessourciers.com</b></p>
-                    <p>Ou en remplissant les champs ci-dessous:</p>
+                    <p>To order <a href="Our-Products-hydroponic-food-production-france.php">our products</a>, 
+                     arrange a tour of our greenhouse, or for any other inquiries or comments </p>
+                    <p>please feel free to contact us: By phone <b>(+33 07.87.11.61.65)</b></p>
+                    <p>By e-mail to <b>marion@lessourciers.com</b></p>
+                    <p>Or by completing the fields below:</p>
 
                  </p>
                     <form class="form-inline" role="form" action="./Contacter.php" method="post">
                         <div>
                             <div class="form-group">
                                 <label class="sr-only" for="message">message</label>
-                                <textarea name="message" type="text" class="form-control" style="width:400px;" rows="3" placeholder="Votre message :" required="required"></textarea>
+                                <textarea name="message" type="text" class="form-control" style="width:400px;" rows="3" 
+                                placeholder="Your message :" required="required"></textarea>
                             </div><br><br>
                             <div class="form-group">
                                 <label class="sr-only" for="email">email</label>
-                                <input name="email" type="email" class="form-control" id="email" placeholder="Votre email :" required="required">
+                                <input name="email" type="email" class="form-control" id="email" placeholder="Your email :" 
+                                required="required">
                             </div><br>
                         </div><br>
                         <div>
-                            <button type="submit" class="btn btn-success">Envoyer</button>
+                            <button type="submit" class="btn btn-success">Send</button>
                         </div>
                     </form><br>
                 <p align="justify">
-                    <p>Nous serons ravis de vous répondre</p>
-                    <p>Vous pouvez aussi nous suivre sur notre page <a href="https://www.facebook.com/pages/Project-Hydroponics/203982603095898" target="_blank">Facebook</a></p>
+                    <p>We look forward to hearing from you</p>
+                    <p>You can also follow us on our Facebook page <a href="https://www.facebook.com/pages/Project-Hydroponics/203982603095898" target="_blank">Facebook</a></p>
                     <h2 class="tamtex20">Marion & Nicolas</h2>
                 </p>
             </div> 
@@ -68,4 +70,4 @@
                 </div>
     </section><br><br>
 
-<?php include('footer.php') ?>
+<?php include('footer-en.php') ?>
