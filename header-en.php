@@ -11,7 +11,7 @@
        <!--  <meta name="keywords" content="les Sourciers, hydroponie, potager aquatique, sourcier, hydroponique, cours d'hydroponie">-->
         <meta name="description" content="Discover Les Sourciers, an experimental and eco-friendly hydroponic greenhouse. Come taste our fresh products during an educational tour of hydroponics in Gers.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/main.css">
         <link href='http://fonts.googleapis.com/css?family=Delius|ABeeZee' rel='stylesheet' type='text/css'>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>

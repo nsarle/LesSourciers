@@ -11,7 +11,7 @@
         <meta name="keywords" content="les Sourciers, hydroponie, potager aquatique, sourcier, hydroponique, cour d'hydroponie">
         <meta name="description" content="Découvrez Les Sourciers. Venez déguster nos produits frais dans le Gers lors d’une visite éducative autour de l’hydroponie.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/main.css">
         <link href='http://fonts.googleapis.com/css?family=Delius|ABeeZee' rel='stylesheet' type='text/css'>
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
